@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shrushti Gaikwad...
+- 👀 I’m interested in Frontend aswell as Backend Development. 
+- 🌱 I’m currently learning Hibernet,Spring,Springboot & Frontend Development.
+- I'm very much intrested in building new projects.
+- As a beginner I'm trying to improve my skills in coding.
